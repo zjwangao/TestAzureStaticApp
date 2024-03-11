@@ -1,0 +1,2 @@
+# TestAzureStaticApp
+TestAzureStaticApp
